@@ -75,25 +75,11 @@ protocol: "I treat Lighthouse scores like a personal challenge 🏎️"
 
 ---
 
-## `◈ STREAK TRACKER`
+## `◈ STREAK · 1,305 CONTRIBUTIONS IN THE LAST YEAR`
 
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sonii-Rahul&theme=dark&hide_border=true&background=020D18&ring=00D4FF&fire=00FF88&currStreakLabel=00D4FF&sideLabels=00D4FF66&currStreakNum=00D4FF&sideNums=00D4FF&dates=00D4FF44&stroke=00D4FF22&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## `◈ 1,305 CONTRIBUTIONS IN THE LAST YEAR`
-
-<div align="center">
-
-![Contribution Grid](https://ghchart.rshah.org/00d4ff/sonii-Rahul)
-
-```
-[ COMMITS ] + [ PULL REQUESTS ] + [ ISSUES ] + [ CODE REVIEWS ] = 1,305 TOTAL
-```
 
 </div>
 
